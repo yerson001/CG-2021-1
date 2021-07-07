@@ -10,8 +10,14 @@ Descarge las dependencias: [template](https://drive.google.com/file/d/1PBEIEmxCq
 
 ## Configuracion 
 1 Copie las dependencias en la carpeta /dep
-2 Copie en /src/ el archivo /proyecto cubo/
-3 En /Template/src/CMakeLists.txt Agrege  proyecto cubo
+2 Copie en
+~~~
+/src/ el archivo /proyecto cubo/
+~~~
+3 En
+~~~
+/Template/src/CMakeLists.txt Agrege  proyecto cubo
+~~~
 ## Ejecución
 En template ejecute el archivo
 ~~~
