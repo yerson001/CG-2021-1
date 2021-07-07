@@ -4,5 +4,6 @@ OpenGL  es  una  herramienta  de  programación  en  tresdimensiones  muy  vers�
 ![img](https://miro.medium.com/max/512/1*w51Rl6Z6jXHJmeEiLDd_6g.gif)
 
 ## Ejecución
-Descarge la plantilla del proyecto
-[template](https://drive.google.com/file/d/1-W0tDZNqMVVIiGtRHJJ0P5GnpYgCrpmu/view?usp=sharing)
+Descarge la plantilla del proyecto: [template](https://drive.google.com/file/d/1-W0tDZNqMVVIiGtRHJJ0P5GnpYgCrpmu/view?usp=sharing)
+
+Descarge las dependencias: [template](https://drive.google.com/file/d/1PBEIEmxCqA5Hj8N9i2VoOehuCbmOV7PW/view?usp=sharing)
