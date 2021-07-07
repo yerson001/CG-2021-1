@@ -35,3 +35,5 @@ Correr el ejecutable
 ./Proyecto cuvo
 ~~~
 Enlace: [Documento](https://www.overleaf.com/read/cvknchdjgrsz)
+
+Enlace: [Video](https://www.youtube.com/watch?v=N5rqDywyC9Q)
