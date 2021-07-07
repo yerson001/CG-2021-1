@@ -9,7 +9,10 @@ Descarge la plantilla del proyecto: [template](https://drive.google.com/file/d/1
 Descarge las dependencias: [template](https://drive.google.com/file/d/1PBEIEmxCqA5Hj8N9i2VoOehuCbmOV7PW/view?usp=sharing)
 
 ## Configuracion 
-1 Copie las dependencias en la carpeta /dep
+1 Copie las dependencias en la carpeta
+~~~
+/dep
+~~~
 2 Copie en
 ~~~
 /src/ el archivo /proyecto cubo/
