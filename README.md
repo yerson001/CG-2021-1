@@ -34,4 +34,4 @@ Correr el ejecutable
 ~~~
 ./Proyecto cuvo
 ~~~
-Documento: [Documento](https://www.overleaf.com/read/cvknchdjgrsz)
+Enlace: [Documento](https://www.overleaf.com/read/cvknchdjgrsz)
